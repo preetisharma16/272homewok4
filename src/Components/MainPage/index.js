@@ -12,8 +12,6 @@ const photos = [
   { src: '/images/doge2.jpg' },
   { src: '/images/doge3.jpg' },
   { src: '/images/doge4.jpg' },
-  { src: '/images/doge5.jpg' },
-  { src: '/images/doge7.jpg' },
 ];
 
 const initialState = {
