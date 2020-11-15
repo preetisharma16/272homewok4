@@ -4,6 +4,8 @@ Usage:
 -----
 - simple serverless application generates meme images, randomly choosing colors and locations of text.
 
+[Checkout the website here](https://main.d1uvjprmh8yooa.amplifyapp.com)
+
 How to use:
 --------------------------
 1. Clone the Repo
