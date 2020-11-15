@@ -7,7 +7,7 @@ Usage:
 
 [Checkout our website here](https://main.d1uvjprmh8yooa.amplifyapp.com)
 
-Note: Support all web browsers other than safari.
+Note: Support all web browsers except safari.
 
 How to use:
 --------------------------
